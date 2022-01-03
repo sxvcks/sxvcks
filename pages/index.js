@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Strona główna</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Witaj na mojej stronie tiktok.com/@sxvcks!" />
         <p className="description">
-          Get started by editing <code>pages/sxvcks</code>
+          sxvcks <code>pages/sxvcks</code>
         </p>
       </main>
 
