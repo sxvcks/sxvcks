@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Witaj na mojej stronie tiktok.com/@sxvcks!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by editing <code>pages/sxvcks</code>
         </p>
       </main>
 
